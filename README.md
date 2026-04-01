@@ -1,6 +1,6 @@
 # Sean Kim — Portfolio
 
-**Live Site:** [seankim0807.github.io](https://seankim0807.github.io/)
+**Live Site:** [sean-kim05.github.io](https://sean-kim05.github.io/)
 
 Personal portfolio showcasing my experience, projects, and skills as a CS student at UC Irvine.
 
@@ -8,8 +8,8 @@ Personal portfolio showcasing my experience, projects, and skills as a CS studen
 
 | Project | Stack | Links |
 |---------|-------|-------|
-| **DSAVisualizer** — Interactive visualizer for 8 algorithms & data structures | React, Vite, JavaScript | [Demo](https://seankim0807.github.io/DSAVisualizer/) · [Repo](https://github.com/seankim0807/DSAVisualizer) |
-| **Job Application Tracker** — Full-stack app to manage and track job applications | React, Flask, SQLite | [Demo](https://job-tracker-application-ten.vercel.app/) · [Repo](https://github.com/seankim0807/job-tracker-application) |
+| **DSAVisualizer** — Interactive visualizer for 8 algorithms & data structures | React, Vite, JavaScript | [Demo](https://sean-kim05.github.io/DSAVisualizer/) · [Repo](https://github.com/sean-kim05/DSAVisualizer) |
+| **Job Application Tracker** — Full-stack app to manage and track job applications | React, Flask, SQLite | [Demo](https://job-tracker-application-ten.vercel.app/) · [Repo](https://github.com/sean-kim05/job-tracker-application) |
 | **Geospatial Data Visualizer** — Immersive geospatial interfaces for land conservation | TypeScript, Vue.js, React, Vite | — |
 | **DSP Messaging Platform** — Full-stack direct messaging module with offline support | Python, Flask, React, Tkinter | — |
 
@@ -23,4 +23,4 @@ Personal portfolio showcasing my experience, projects, and skills as a CS studen
 ## Contact
 
 - LinkedIn: [linkedin.com/in/seankim08](https://www.linkedin.com/in/seankim08)
-- GitHub: [github.com/seankim0807](https://github.com/seankim0807)
+- GitHub: [github.com/sean-kim05](https://github.com/sean-kim05)
